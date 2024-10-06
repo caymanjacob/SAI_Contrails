@@ -4,12 +4,13 @@ The SAI project aims to reduce the environmental impact of contrails, which are 
 The system works through several key components:
 
 Pre-flight Planning: Airlines use the platform to analyze upcoming flights, factoring in real-time weather data, air traffic, and atmospheric conditions:
+
 <img width="592" alt="Screenshot 2024-10-06 at 12 35 24 PM" src="https://github.com/user-attachments/assets/dddf17a0-3bc3-431f-9f60-366ffec7b17e">
 
 Predictive Models: Using machine learning, the system predicts when and where contrails are likely to form and whether they will have a warming or cooling effect. These models are continuously updated based on new scientific data and actual flight results.
-Rerouting Guidance: For a small percentage of flights (about 5%), the system recommends adjustments to altitude or slight changes in the route to avoid areas where "bad" contrails would form. These recommendations aim to minimize fuel burn and optimize environmental outcomes.
-Real-time Adjustments: If weather conditions change mid-flight, the system can offer real-time route changes to pilots, helping them avoid generating contrails that trap heat.
-Some of the benefits are:
+Rerouting Guidance: For a small percentage of flights (about 5%), the system recommends adjustments to altitude or slight changes in the route to avoid areas where "bad" contrails would form. These recommendations aim to minimize fuel burn and optimize environmental outcomes:
+
+<img width="936" alt="Screenshot 2024-10-06 at 1 33 04 PM" src="https://github.com/user-attachments/assets/cdaa4451-e882-44cd-a699-0bfe4c21f6b0">
 
 Environmental Impact: The primary benefit is a reduction in the aviation industry's contribution to global warming by addressing contrails, which account for over one-third of its climate impact. Reducing "bad" contrails has a direct, measurable effect on the Earth’s radiative balance.
 Cost Savings: Airlines can save on carbon credits, as avoiding contrails is cheaper than purchasing carbon credits tied to CO₂ emissions. For example, Delta Airlines spent $137 million on carbon credits in 2021; the system could reduce such expenses.
