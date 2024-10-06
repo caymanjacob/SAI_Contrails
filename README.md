@@ -3,7 +3,9 @@ The SAI project aims to reduce the environmental impact of contrails, which are 
 
 The system works through several key components:
 
-Pre-flight Planning: Airlines use the platform to analyze upcoming flights, factoring in real-time weather data, air traffic, and atmospheric conditions.
+Pre-flight Planning: Airlines use the platform to analyze upcoming flights, factoring in real-time weather data, air traffic, and atmospheric conditions:
+<img width="592" alt="Screenshot 2024-10-06 at 12 35 24 PM" src="https://github.com/user-attachments/assets/dddf17a0-3bc3-431f-9f60-366ffec7b17e">
+
 Predictive Models: Using machine learning, the system predicts when and where contrails are likely to form and whether they will have a warming or cooling effect. These models are continuously updated based on new scientific data and actual flight results.
 Rerouting Guidance: For a small percentage of flights (about 5%), the system recommends adjustments to altitude or slight changes in the route to avoid areas where "bad" contrails would form. These recommendations aim to minimize fuel burn and optimize environmental outcomes.
 Real-time Adjustments: If weather conditions change mid-flight, the system can offer real-time route changes to pilots, helping them avoid generating contrails that trap heat.
